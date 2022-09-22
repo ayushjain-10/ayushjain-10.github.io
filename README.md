@@ -7,7 +7,7 @@
 > Software Engineer
 
 
-<img src="https://komarev.com/ghpvc/?username=anandmainali" alt="anandmainali" />
+<img src="https://komarev.com/ghpvc/?username=ayushjain-10" alt="ayushjain-10" />
 
 <div>
  <p>
