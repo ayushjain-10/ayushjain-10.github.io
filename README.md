@@ -29,7 +29,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 ### Github Stats
 
-(![Ayush Jain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushjain-10&count_private=true&show_icons=true&theme=radical))
+![Ayush Jain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushjain-10&count_private=true&show_icons=true&theme=radical)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
