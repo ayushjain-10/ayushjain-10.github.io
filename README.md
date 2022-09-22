@@ -29,15 +29,15 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 ### Github Stats
 
-[![Ayush Jain's GitHub Stats](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushjain-10&count_private=true&show_icons=true&theme=radical))](https://github.com/anandmainali)
+(![Ayush Jain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushjain-10&count_private=true&show_icons=true&theme=radical))](https://github.com/ayushjain-10)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ayush-jain-19191a1a6/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@anandmainali-blue?style=flat&logo=linkedin"></a>
-<a href="https://stackoverflow.com/users/18561446/ayush-jain" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Anand%20Mainali-blue?style=flat&logo=stackoverflow"></a>
-<a href="mailto:ayushshreeshreemal@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anandmainali5@gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/ayush-jain-19191a1a6/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@ayushjain-blue?style=flat&logo=linkedin"></a>
+<a href="https://stackoverflow.com/users/18561446/ayush-jain" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Ayush%20Jain-blue?style=flat&logo=stackoverflow"></a>
+<a href="mailto:ayushshreeshreemal@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ayushshreeshreemal@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
 
-⭐️ From [@anandmainali](https://github.com/anandmainali)
+⭐️ From [@ayushjain-10](https://github.com/ayushjain-10)
