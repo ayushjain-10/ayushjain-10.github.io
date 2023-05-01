@@ -3,9 +3,11 @@
  <h2 align="center">Profile</h2>
 </p>
 
-### Hi there 👋 I'm [Ayush Jain](https://www.linkedin.com/in/ayush-jain-19191a1a6/)
+### Hi there 👋 I'm [Ayush Jain](https://www.ayushjain-10.me/)
 > Software Engineer
 
+## Website
+https://www.ayushjain-10.me/
 
 <img src="https://komarev.com/ghpvc/?username=ayushjain-10" alt="ayushjain-10" />
 
